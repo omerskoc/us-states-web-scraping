@@ -26,12 +26,13 @@ This project demonstrates a Python script to extract data about the United State
 ## Sample Output
 The output is a DataFrame with columns for state name, population, and area. Here's a sample for the first five states:
 
-state	population	area
-0	Alabama	5024279	52420
-1	Alaska	733391	665384
-2	Arizona	7151502	113990
-3	Arkansas	3011524	53179
-4	California	39538223	163695
+| State     | Population | Area  |
+|-----------|------------|-------|
+| Alabama   | 5024279    | 52420 |
+| Alaska    | 733391     | 665384|
+| Arizona   | 7151502    | 113990|
+| Arkansas  | 3011524    | 53179 |
+| California| 39538223   | 163695|
 
 
 ## Conclusion
